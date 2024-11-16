@@ -11,12 +11,26 @@ A task management application built with ReactJS, allowing users to add, delete,
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/task-manager-react.git
-   cd task-manager-react```
+   git clone https://github.com/CodeNik07/flarelink-assignment.git
+   cd flarelink-assignment
 
 2. Install dependencies and start the development server
     ```bash
     npm install
-    npm run dev```
+    npm run dev
 
 ## Screenshots
+1. Task Manager UI
+![Task manager UI](Images/Task-1.PNG)
+
+2. Add Task
+![Add Task](Images/Task-2.PNG)
+
+3. Search Task
+![Search Task](Images/Task-3.PNG)
+
+4. Sort Task
+![Sort Task](Images/Task-4.PNG)
+
+5. Delete Task
+![Delete Task](Images/Task-5.PNG)
